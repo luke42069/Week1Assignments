@@ -19,6 +19,7 @@ public class PizzaCost {
         total=base+tprice+oven+labour;
         
         System.out.println(String.format("Your total is $%.2f.",total));
+        System.out.println("what p");
         
     }
     
