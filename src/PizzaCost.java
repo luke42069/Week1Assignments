@@ -20,6 +20,7 @@ public class PizzaCost {
         
         System.out.println(String.format("Your total is $%.2f.",total));
         System.out.println("what p");
+        System.out.println("This was done at home");
         
     }
     
